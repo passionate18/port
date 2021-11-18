@@ -811,7 +811,7 @@ body.on .cursel-under h2{
 
 .about-name01 h3,.about-name02 h3,.about-name03 h3{
     position: absolute;
-    font-size: 9vw;
+    font-size: 6vw;
     margin-top:20px;
     opacity: 0;
 }
@@ -821,7 +821,7 @@ body.on .cursel-under h2{
 }
 .about-name02 h3{
     top: 40%;
-    right: 26%;
+    right: 30%;
 }
 .about-name03 h3{
     top: 55%;
