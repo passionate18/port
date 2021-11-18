@@ -169,6 +169,8 @@ nav ul li a:hover::after {
 }
 #logo .logo_tec02{
   margin-left: -1px;
+  width: 50%;
+  margin-top: -30px;
 }
 #logo .logo_tec03{
   margin-left: 1px;
